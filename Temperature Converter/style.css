@@ -1,0 +1,58 @@
+body {
+    font-family:'Times New Roman', Times, serif;
+    background-color: #f0f0f0;
+    
+}
+
+.container {
+    width: 300px;
+    margin: 0 auto;
+    background-color: #fff;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
+    text-align: center;
+}
+
+.input-section {
+    margin: 10px 0;
+}
+
+input {
+    width: 100%;
+    padding: 5px;
+}
+
+.btn-section {
+    margin-top: 20px;
+}
+
+button {
+    background-color: #0074d9;
+    color: #fff;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background-color 0.3s;
+}
+
+button:hover {
+    background-color: #0056b3;
+}
+.container{
+    background-image: url(/21346.jpg);
+    background-size: cover;
+   
+}
+.conta{
+    position:center;
+    padding: 180px;
+}
+body{
+    background-image: url(/170730171434-01-climate-change-global-warming.jpg)
+}
+label{
+    color: wheat;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
